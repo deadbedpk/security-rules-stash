@@ -12,4 +12,6 @@ specs:
     - fromRequires:
       - matchLabels:
           env: prod
+    action: Audit
+    severity: 4
       
